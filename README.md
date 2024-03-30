@@ -1,4 +1,4 @@
-# NYC-Taxi-Tip-Predictor\
+# NYC-Taxi-Tip-Predictor
 
 Introduction: The overarching goal of this project was to create an algorithm that can be used to examine the patterns of cab operations in a city and attempt to forecast the tip that can be expected per fare.The premise behind this study was that the trip histories of cab drivers when paired with demographic information, might be used to predict people's propensities to tip differently depending on where they are, when they are traveling, and what kind of journey they are on. We sought to create a system that would divide a given trip into several groups with varied tipping guidelines using various machine-learning approaches.
 
